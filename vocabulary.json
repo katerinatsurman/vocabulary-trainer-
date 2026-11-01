@@ -1,0 +1,166 @@
+<CodeBlock language="json" editable>
+{
+  "A1": {
+    "Food — Їжа": [
+      {
+        "word": "apple",
+        "translation": ["яблуко"]
+      },
+      {
+        "word": "bread",
+        "translation": ["хліб"]
+      },
+      {
+        "word": "milk",
+        "translation": ["молоко"]
+      },
+      {
+        "word": "water",
+        "translation": ["вода"]
+      },
+      {
+        "word": "cheese",
+        "translation": ["сир"]
+      },
+      {
+        "word": "banana",
+        "translation": ["банан"]
+      }
+    ],
+    "Family — Сім'я": [
+      {
+        "word": "mother",
+        "translation": ["мати", "мама"]
+      },
+      {
+        "word": "father",
+        "translation": ["батько", "тато"]
+      },
+      {
+        "word": "sister",
+        "translation": ["сестра"]
+      },
+      {
+        "word": "brother",
+        "translation": ["брат"]
+      },
+      {
+        "word": "daughter",
+        "translation": ["донька", "дочка"]
+      },
+      {
+        "word": "son",
+        "translation": ["син"]
+      }
+    ]
+  },
+  "A2": {
+    "Everyday life — Повсякденне життя": [
+      {
+        "word": "careful",
+        "translation": ["обережний", "уважний"]
+      },
+      {
+        "word": "improve",
+        "translation": ["покращувати", "поліпшувати", "вдосконалювати"]
+      },
+      {
+        "word": "choice",
+        "translation": ["вибір"]
+      },
+      {
+        "word": "journey",
+        "translation": ["подорож"]
+      },
+      {
+        "word": "usually",
+        "translation": ["зазвичай"]
+      },
+      {
+        "word": "borrow",
+        "translation": ["позичати"]
+      }
+    ],
+    "School — Школа": [
+      {
+        "word": "knowledge",
+        "translation": ["знання"]
+      },
+      {
+        "word": "subject",
+        "translation": ["предмет", "навчальний предмет"]
+      },
+      {
+        "word": "homework",
+        "translation": ["домашнє завдання"]
+      },
+      {
+        "word": "lesson",
+        "translation": ["урок", "заняття"]
+      },
+      {
+        "word": "exam",
+        "translation": ["іспит", "екзамен"]
+      },
+      {
+        "word": "explain",
+        "translation": ["пояснювати"]
+      }
+    ]
+  },
+  "B1": {
+    "Personal qualities — Особисті якості": [
+      {
+        "word": "reliable",
+        "translation": ["надійний"]
+      },
+      {
+        "word": "achievement",
+        "translation": ["досягнення"]
+      },
+      {
+        "word": "support",
+        "translation": ["підтримка", "підтримувати"]
+      },
+      {
+        "word": "confident",
+        "translation": ["впевнений"]
+      },
+      {
+        "word": "responsible",
+        "translation": ["відповідальний"]
+      },
+      {
+        "word": "patient",
+        "translation": ["терплячий"]
+      }
+    ],
+    "Environment — Довкілля": [
+      {
+        "word": "environment",
+        "translation": ["середовище", "довкілля"]
+      },
+      {
+        "word": "bright",
+        "translation": ["яскравий", "світлий"]
+      },
+      {
+        "word": "pollution",
+        "translation": ["забруднення"]
+      },
+      {
+        "word": "recycle",
+        "translation": ["переробляти"]
+      },
+      {
+        "word": "waste",
+        "translation": ["відходи", "марнувати"]
+      },
+      {
+        "word": "protect",
+        "translation": ["захищати", "охороняти"]
+      }
+    ]
+  }
+}
+</CodeBlock>
